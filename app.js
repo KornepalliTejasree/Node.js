@@ -1,0 +1,5 @@
+// const catMe=require('cat-me')
+// console.log(catMe())
+const os=require('os')
+console.log(os.hostname())
+console.log(os.freemem())

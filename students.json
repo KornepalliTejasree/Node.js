@@ -1,0 +1,26 @@
+[
+    {"id":"1",
+     "name":"Mohith",
+     "course":"CSE AIML"
+    },
+    {"id":"2",
+     "name":"Tejasree",
+     "course":"CSE"
+    },
+    {"id":"3",
+     "name":"Gowtham",
+     "course":"CSE AIML"
+    },
+    {"id":"4",
+     "name":"Venkatesh",
+     "course":"CSE"
+    },
+    {"id":"5",
+     "name":"Sandeep",
+     "course":"MECH"
+    },
+    {"id":"6",
+     "name":"Jai Simha",
+     "course":"CSE"
+    }
+]
